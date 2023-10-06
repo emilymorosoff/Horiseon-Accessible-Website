@@ -38,7 +38,9 @@ The website is structured with a navigation bar at the top, a hero image, conten
 
 ## 🙌 Credits 
 
-Designed and developed by Horiseon. Special thanks to OpenAI's ChatGPT-4 for assistance in generating a README.md template.
+- Repository structure and base code adapted from [urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram.git) authored by Georgeyoo.
+- Special thanks to OpenAI's ChatGPT-4 for assistance in generating a README.md template.
+- Immense gratitude to my Preply tutors, Tooba from Pakistan and Benedek from Hungary, for their unwavering support throughout my educational journey as a developer.
 
 ## ⚖ License 
 
